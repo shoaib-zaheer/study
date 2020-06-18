@@ -1,6 +1,5 @@
 # Fundamentals
 
-
 ### starting out
 * [Hello World](https://javascript.info/hello-world) (js.info)
 * [code structure](https://javascript.info/structure) (js.info)
@@ -13,8 +12,6 @@
 * [functions](https://www.youtube.com/watch?v=bJUmxDsaduY&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u&index=6) (Guo video)
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 * [javascript.info](https://javascript.info/function-basics)
-
-
 
 ### types & values
 * [variables & primitive types](https://www.youtube.com/watch?v=pHt_tKYUgbo&list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u&index=2) (Guo video)
@@ -36,6 +33,7 @@
 * [truthiness statements](https://github.com/janke-learning/truthiness/blob/master/statements-of-truthiness.md)
 
 ### operators
+* [tutorialspoint summary](https://www.tutorialspoint.com/javascript/pdf/javascript_operators.pdf)
 * order of operations & coercion: [equalities](https://janke-learning.org/equalities-coercion/), [arithmetic](https://janke-learning.org/arithmetic-coercion/)
 
 
@@ -119,9 +117,4 @@
 * event loop
    * [What a heck is the event loop anyway] (https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-### Functional Programming
-*[Functional Programming in JS playlist] (https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
----
----
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>

@@ -1,27 +1,9 @@
-# Class Recordings
+# Class Recodings
 
-Screen recordings of class.  Coaches, when sending your PR's with links please make sure to ...
+1. [working-with-code](https://github.com/hackyourfuturebelgium/working-with-code/tree/master/class-recordings.md)
+1. [incremental-development](https://github.com/hackyourfuturebelgium/incremental-development/tree/master/class-recordings.md)
+1. [encapsulation](https://github.com/hackyourfuturebelgium/encapsulation/tree/master/class-recordings.md)
+1. [asynchronous-programming](https://github.com/hackyourfuturebelgium/asynchronous-programming/tree/master/class-recordings.md)
+1. [web-apps](https://github.com/hackyourfuturebelgium/web-apps/tree/master/class-recordings.md)
+1. [databases](https://github.com/HackYourFutureBelgium/databases/blob/master/class-recordings.md)
 
-* Add a link to your video in the correct module's section
-* Indicate which class you were teaching
-* Which week it was
-* And your name.
-
-Something like this:
-
-```
-* [Class 7, week 2, Kevin]()
-```
-
----
-
-## 0. Working with Code
-
-## 1. Incremental development
-
-* Class 7, week 2, Kevin: [Build responsive webpage & git branching cover](https://youtu.be/zjivncbwHSg)
-* Class 7, week 3, Kevin: [Build clonde of Prezi template](https://youtu.be/Lvppty5I6wA)
-
-[TOP](#class-recordings)
-
----
